@@ -13,7 +13,7 @@ body {
   height: 100%;
   background-color: blueviolet;
   font-family: "Varta", sans-serif;
-  overflow: hidden;
+  overflow-y: hidden;
 }
 .container {
   position: relative;
@@ -96,4 +96,6 @@ p {
 .btn:focus{
     outline: none;
 }
+
+
 
